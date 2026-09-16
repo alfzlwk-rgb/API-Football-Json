@@ -1,0 +1,693 @@
+{
+    "page_type": "today_page",
+    "export_date": "2026-09-16",
+    "total_matches": 98,
+    "matches": [
+        {
+            "match_id": "match_241085",
+            "home_team": "أتلتيكو مدريد",
+            "away_team": "أوساسونا",
+            "match_time_or_score": "20:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_241087",
+            "home_team": "ديبورتيفو أكورونيا",
+            "away_team": "إشبيلية",
+            "match_time_or_score": "20:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_241089",
+            "home_team": "برشلونة",
+            "away_team": "راسينغ سانتاندير",
+            "match_time_or_score": "22:30",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_241090",
+            "home_team": "ليفانتي",
+            "away_team": "أتلتيك بيلباو",
+            "match_time_or_score": "22:30",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258830",
+            "home_team": "جيونبك هيونداي",
+            "away_team": "كاشيوا ريسول",
+            "match_time_or_score": "13:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258831",
+            "home_team": "بورت",
+            "away_team": "فيسيل كوبي",
+            "match_time_or_score": "15:15",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261689",
+            "home_team": "أومونيا",
+            "away_team": "سيلتا فيغو",
+            "match_time_or_score": "19:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261691",
+            "home_team": "آرارات أرمينيا",
+            "away_team": "سبارتا براغ",
+            "match_time_or_score": "19:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261668",
+            "home_team": "ميلان",
+            "away_team": "بنفيكا",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261671",
+            "home_team": "سندرلاند",
+            "away_team": "إي زد ألكمار",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261674",
+            "home_team": "شتورم غراتس",
+            "away_team": "رين",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261677",
+            "home_team": "باير ليفركوزن",
+            "away_team": "تسيليه",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261680",
+            "home_team": "أولمبياكوس",
+            "away_team": "ياغيلونيا بياويستوك",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261684",
+            "home_team": "هابويل بئر سبع",
+            "away_team": "دينامو زغرب",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261687",
+            "home_team": "أندرلخت",
+            "away_team": "ليون",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258915",
+            "home_team": "سيئول",
+            "away_team": "بيرسيب",
+            "match_time_or_score": "13:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258916",
+            "home_team": "فيتيل",
+            "away_team": "ميلبورن فيكتوري",
+            "match_time_or_score": "15:15",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258909",
+            "home_team": "الوحدة",
+            "away_team": "نادي الكويت",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258910",
+            "home_team": "الخالدية",
+            "away_team": "ناساف",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258911",
+            "home_team": "النهضة",
+            "away_team": "التعاون",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258913",
+            "home_team": "الحسين",
+            "away_team": "إيست بنغال",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258912",
+            "home_team": "الريان",
+            "away_team": "الفيصلي",
+            "match_time_or_score": "21:15",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258914",
+            "home_team": "الشرطة",
+            "away_team": "السيب",
+            "match_time_or_score": "21:15",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260934",
+            "home_team": "فليتوود تاون",
+            "away_team": "شيفيلد يونايتد",
+            "match_time_or_score": "21:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260945",
+            "home_team": "إيفرتون",
+            "away_team": "وولفرهامبتون",
+            "match_time_or_score": "21:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260939",
+            "home_team": "كوفنتري سيتي",
+            "away_team": "أستون فيلا",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260943",
+            "home_team": "مانشستر يونايتد",
+            "away_team": "برايتون",
+            "match_time_or_score": "22:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_257167",
+            "home_team": "آسباك",
+            "away_team": "ذا بانثرز",
+            "match_time_or_score": "18:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_256823",
+            "home_team": "الجونة",
+            "away_team": "السويس بتروجيت",
+            "match_time_or_score": "17:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_256825",
+            "home_team": "غزل المحلة",
+            "away_team": "الزمالك",
+            "match_time_or_score": "20:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_255899",
+            "home_team": "الترجي الجرجيسي",
+            "away_team": "الاتحاد المنستيري",
+            "match_time_or_score": "18:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_255903",
+            "home_team": "إتحاد بن قردان",
+            "away_team": "النادي الصفاقسي",
+            "match_time_or_score": "18:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261845",
+            "home_team": "بايبورتسبور",
+            "away_team": "بورتشكا سبور",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261846",
+            "home_team": "جوليسبور",
+            "away_team": "كارس 36",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261847",
+            "home_team": "جيزره بلدية سبور",
+            "away_team": "هكاري زابسبور",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261848",
+            "home_team": "ديرسمسبور",
+            "away_team": "غليجك سيرت 56",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261849",
+            "home_team": "كيليس بيرليكغوتشيسبور",
+            "away_team": "كاهتا 02 سبور",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261850",
+            "home_team": "أضنة سبور",
+            "away_team": "ييني مالاتياسبور",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261852",
+            "home_team": "توكات بلد بليفنسبور",
+            "away_team": "كيشابسبور",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261853",
+            "home_team": "سينوبسبور",
+            "away_team": "أريت كاياديبيسبور",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261857",
+            "home_team": "أوسمانيليسبور",
+            "away_team": "أناضولو أونيفرسيتيسي",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261859",
+            "home_team": "كارامان بيليدي سبور",
+            "away_team": "كيبيزسبور",
+            "match_time_or_score": "14:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261862",
+            "home_team": "أوزونكبروسبور",
+            "away_team": "كارتال بولفارسبور",
+            "match_time_or_score": "15:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261863",
+            "home_team": "إينكيلابسبور",
+            "away_team": "أنطاليا كيبيزسبور",
+            "match_time_or_score": "15:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261864",
+            "home_team": "غالاتا",
+            "away_team": "يالوفا يسيلوفاسبور",
+            "match_time_or_score": "15:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261860",
+            "home_team": "بوكاسبور 1928",
+            "away_team": "غازيمير جينكليكسبر",
+            "match_time_or_score": "17:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261856",
+            "home_team": "تورك ميتال كيريكالي",
+            "away_team": "كيرشهير بيليدييسبور",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261858",
+            "home_team": "يني مرسين آي",
+            "away_team": "بوكاك بيليدييسي أوغوزانسبور",
+            "match_time_or_score": "20:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_245651",
+            "home_team": "رودينا موسكفا",
+            "away_team": "روبين كازان",
+            "match_time_or_score": "18:30",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_245657",
+            "home_team": "سبارتاك موسكو",
+            "away_team": "فاكيل",
+            "match_time_or_score": "18:30",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_245652",
+            "home_team": "لوكوموتيف موسكو",
+            "away_team": "كريليا سوفيتوف",
+            "match_time_or_score": "20:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_245654",
+            "home_team": "بالتيكا",
+            "away_team": "زينيت",
+            "match_time_or_score": "20:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_246029",
+            "home_team": "لوغانو",
+            "away_team": "سانت غالن",
+            "match_time_or_score": "20:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_246034",
+            "home_team": "ثون",
+            "away_team": "سيرفيت",
+            "match_time_or_score": "20:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261823",
+            "home_team": "نيكي فولوس",
+            "away_team": "أستيراس تريبوليس",
+            "match_time_or_score": "15:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261825",
+            "home_team": "آريس",
+            "away_team": "ماركو",
+            "match_time_or_score": "16:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261824",
+            "home_team": "كيفيسيا",
+            "away_team": "باناثينايكوس",
+            "match_time_or_score": "17:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_261822",
+            "home_team": "أتروميتوس",
+            "away_team": "باوك",
+            "match_time_or_score": "20:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_228417",
+            "home_team": "أيك",
+            "away_team": "ميالبو",
+            "match_time_or_score": "20:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258426",
+            "home_team": "بلاتنسي",
+            "away_team": "فلومينينسي",
+            "match_time_or_score": "2 - 1",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_258427",
+            "home_team": "إل دي يو كيتو",
+            "away_team": "بالميراس",
+            "match_time_or_score": "01:00",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_258429",
+            "home_team": "كورينثيانز",
+            "away_team": "إستوديانتس",
+            "match_time_or_score": "03:30",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_260586",
+            "home_team": "فاسكو دا غاما",
+            "away_team": "سانتا فاي",
+            "match_time_or_score": "2 - 0",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_259908",
+            "home_team": "ساو باولو",
+            "away_team": "بوكا جونيورز",
+            "match_time_or_score": "1 - 1",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260559",
+            "home_team": "أتليتيكو مينيرو",
+            "away_team": "سانتوس",
+            "match_time_or_score": "01:00",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_228088",
+            "home_team": "بوتافوغو",
+            "away_team": "غريميو",
+            "match_time_or_score": "01:30",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_239433",
+            "home_team": "كولومبوس كرو",
+            "away_team": "أورلاندو سيتي",
+            "match_time_or_score": "02:00",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_239453",
+            "home_team": "كولورادو رابيدز",
+            "away_team": "سانت لويس سيتي",
+            "match_time_or_score": "04:30",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_260398",
+            "home_team": "إندبندينتي ريفادافيا",
+            "away_team": "أتلتيكو توكومان",
+            "match_time_or_score": "01:00",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_246338",
+            "home_team": "بويبلا",
+            "away_team": "تولوكا",
+            "match_time_or_score": "0 - 1",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_259607",
+            "home_team": "إيه إس كيغالي",
+            "away_team": "الهلال",
+            "match_time_or_score": "16:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_259673",
+            "home_team": "آرمي باتريوريتيك",
+            "away_team": "مارينز",
+            "match_time_or_score": "19:30",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260569",
+            "home_team": "الصين",
+            "away_team": "كوريا الشمالية",
+            "match_time_or_score": "08:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260570",
+            "home_team": "الإمارات",
+            "away_team": "إيران",
+            "match_time_or_score": "1 - 3",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260564",
+            "home_team": "اليابان",
+            "away_team": "هونغ كونغ",
+            "match_time_or_score": "10:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_260566",
+            "home_team": "تايلاند",
+            "away_team": "قرغيزستان",
+            "match_time_or_score": "3 - 2",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262584",
+            "home_team": "ثور",
+            "away_team": "زالغيريس",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262585",
+            "home_team": "زرنجسكي",
+            "away_team": "لينكولن ريد أمبس",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262586",
+            "home_team": "فلورا",
+            "away_team": "هافنار بولتفيلاج",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262587",
+            "home_team": "سانتا كولوما",
+            "away_team": "أكاديميا بانديف",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262593",
+            "home_team": "هلسنكي",
+            "away_team": "بالكاني",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262591",
+            "home_team": "فاليتا",
+            "away_team": "بارتيزاني تيرانا",
+            "match_time_or_score": "21:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262589",
+            "home_team": "كليفتونفيل",
+            "away_team": "سوبر نوفا",
+            "match_time_or_score": "21:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262592",
+            "home_team": "كارديف ميت",
+            "away_team": "أونا ستراسين",
+            "match_time_or_score": "21:45",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_249805",
+            "home_team": "لوكوموتيف صوفيا",
+            "away_team": "سسكا صوفيا",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_257999",
+            "home_team": "بورنيو",
+            "away_team": "ديوا يونايتد",
+            "match_time_or_score": "0 - 1",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_251974",
+            "home_team": "سلوجا دوبوج",
+            "away_team": "بوراتس بانيا لوكا",
+            "match_time_or_score": "19:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_263118",
+            "home_team": "وداد تمارة",
+            "away_team": "سطاد المغربي",
+            "match_time_or_score": "13:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_230232",
+            "home_team": "دنفر سميت",
+            "away_team": "باي إف سي",
+            "match_time_or_score": "04:30",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_230231",
+            "home_team": "أنجيل سيتي",
+            "away_team": "أو إل ريجن",
+            "match_time_or_score": "05:00",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_262903",
+            "home_team": "باهيا",
+            "away_team": "كورينثيانز",
+            "match_time_or_score": "0 - 1",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262383",
+            "home_team": "البرازيل",
+            "away_team": "الولايات المتحدة",
+            "match_time_or_score": "16:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262384",
+            "home_team": "الأرجنتين",
+            "away_team": "كوريا الجنوبية",
+            "match_time_or_score": "16:00",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262381",
+            "home_team": "إيطاليا",
+            "away_team": "الصين",
+            "match_time_or_score": "19:30",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262382",
+            "home_team": "إسبانيا",
+            "away_team": "البرتغال",
+            "match_time_or_score": "19:30",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262309",
+            "home_team": "بوياكا تشيكو",
+            "away_team": "أليانزا بيتروليرا",
+            "match_time_or_score": "1 - 2",
+            "match_date": "2026-09-16"
+        },
+        {
+            "match_id": "match_262267",
+            "home_team": "أونس كالداس",
+            "away_team": "ديبورتيس توليما",
+            "match_time_or_score": "02:15",
+            "match_date": "2026-09-17"
+        },
+        {
+            "match_id": "match_262212",
+            "home_team": "لا اكيداد",
+            "away_team": "أتلتيكو ناسيونال",
+            "match_time_or_score": "04:20",
+            "match_date": "2026-09-17"
+        }
+    ]
+}
