@@ -50,7 +50,7 @@
     {
         "rank": 5,
         "team_name": "اليابان",
-        "points": "1,998.83",
+        "points": "1,999.71",
         "filters": [
             "AFC"
         ],
@@ -122,7 +122,7 @@
     {
         "rank": 11,
         "team_name": "كوريا الشمالية",
-        "points": "1,910.63",
+        "points": "1,911.57",
         "filters": [
             "AFC"
         ],
@@ -182,7 +182,7 @@
     {
         "rank": 16,
         "team_name": "الصين",
-        "points": "1,799.13",
+        "points": "1,793.81",
         "filters": [
             "AFC"
         ],
@@ -218,7 +218,7 @@
     {
         "rank": 19,
         "team_name": "كوريا الجنوبية",
-        "points": "1,780.69",
+        "points": "1,782.72",
         "filters": [
             "AFC"
         ],
@@ -422,7 +422,7 @@
     {
         "rank": 36,
         "team_name": "فيتنام",
-        "points": "1,593.71",
+        "points": "1,587.41",
         "filters": [
             "AFC"
         ],
@@ -445,27 +445,27 @@
     },
     {
         "rank": 38,
-        "team_name": "الفلبين",
-        "points": "1,566.44",
+        "team_name": "تايوان",
+        "points": "1,574.93",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
             "AFC": 7
         },
-        "search_meta": "38 الفلبين Philippines AFC آسيا"
+        "search_meta": "38 تايوان Chinese Taipei AFC آسيا"
     },
     {
         "rank": 39,
-        "team_name": "تايوان",
-        "points": "1,565.81",
+        "team_name": "الفلبين",
+        "points": "1,565.74",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
             "AFC": 8
         },
-        "search_meta": "39 تايوان Chinese Taipei AFC آسيا"
+        "search_meta": "39 الفلبين Philippines AFC آسيا"
     },
     {
         "rank": 40,
@@ -577,18 +577,6 @@
     },
     {
         "rank": 49,
-        "team_name": "تايلاند",
-        "points": "1,485.04",
-        "filters": [
-            "AFC"
-        ],
-        "filter_ranks": {
-            "AFC": 9
-        },
-        "search_meta": "49 تايلاند Thailand AFC آسيا"
-    },
-    {
-        "rank": 50,
         "team_name": "أيرلندا الشمالية",
         "points": "1,481.66",
         "filters": [
@@ -597,19 +585,31 @@
         "filter_ranks": {
             "UEFA": 27
         },
-        "search_meta": "50 أيرلندا الشمالية Northern Ireland UEFA أوروبا"
+        "search_meta": "49 أيرلندا الشمالية Northern Ireland UEFA أوروبا"
+    },
+    {
+        "rank": 50,
+        "team_name": "أوزبكستان",
+        "points": "1,481.58",
+        "filters": [
+            "AFC"
+        ],
+        "filter_ranks": {
+            "AFC": 9
+        },
+        "search_meta": "50 أوزبكستان Uzbekistan AFC آسيا"
     },
     {
         "rank": 51,
-        "team_name": "أوزبكستان",
-        "points": "1,474.15",
+        "team_name": "تايلاند",
+        "points": "1,481.35",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
             "AFC": 10
         },
-        "search_meta": "51 أوزبكستان Uzbekistan AFC آسيا"
+        "search_meta": "51 تايلاند Thailand AFC آسيا"
     },
     {
         "rank": 52,
@@ -650,7 +650,7 @@
     {
         "rank": 55,
         "team_name": "ميانمار",
-        "points": "1,460.70",
+        "points": "1,458.06",
         "filters": [
             "AFC"
         ],
@@ -674,7 +674,7 @@
     {
         "rank": 57,
         "team_name": "بابوا غينيا الجديدة",
-        "points": "1,450.33",
+        "points": "1,455.92",
         "filters": [
             "OFC"
         ],
@@ -943,27 +943,27 @@
     },
     {
         "rank": 80,
-        "team_name": "فيجي",
-        "points": "1,282.20",
-        "filters": [
-            "OFC"
-        ],
-        "filter_ranks": {
-            "OFC": 3
-        },
-        "search_meta": "80 فيجي Fiji OFC أوقيانوسيا"
-    },
-    {
-        "rank": 81,
         "team_name": "هونغ كونغ",
-        "points": "1,280.53",
+        "points": "1,279.12",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
             "AFC": 15
         },
-        "search_meta": "81 هونغ كونغ Hong Kong AFC آسيا"
+        "search_meta": "80 هونغ كونغ Hong Kong AFC آسيا"
+    },
+    {
+        "rank": 81,
+        "team_name": "فيجي",
+        "points": "1,276.60",
+        "filters": [
+            "OFC"
+        ],
+        "filter_ranks": {
+            "OFC": 3
+        },
+        "search_meta": "81 فيجي Fiji OFC أوقيانوسيا"
     },
     {
         "rank": 82,
@@ -1052,7 +1052,7 @@
     {
         "rank": 89,
         "team_name": "جزر سليمان",
-        "points": "1,234.03",
+        "points": "1,232.62",
         "filters": [
             "OFC"
         ],
@@ -1270,7 +1270,7 @@
     {
         "rank": 107,
         "team_name": "بنجلاديش",
-        "points": "1,171.05",
+        "points": "1,170.71",
         "filters": [
             "AFC"
         ],
@@ -1282,7 +1282,7 @@
     {
         "rank": 108,
         "team_name": "فانواتو",
-        "points": "1,168.10",
+        "points": "1,169.51",
         "filters": [
             "OFC"
         ],

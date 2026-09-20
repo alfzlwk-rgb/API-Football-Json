@@ -1870,7 +1870,7 @@
     {
         "rank": 153,
         "team_name": "جزر سليمان",
-        "points": "1,031.89",
+        "points": "1,031.86",
         "filters": [
             "OFC"
         ],
@@ -1894,7 +1894,7 @@
     {
         "rank": 155,
         "team_name": "فيجي",
-        "points": "1,024.17",
+        "points": "1,024.21",
         "filters": [
             "OFC"
         ],
@@ -1954,7 +1954,7 @@
     {
         "rank": 160,
         "team_name": "فانواتو",
-        "points": "1,002.53",
+        "points": "999.90",
         "filters": [
             "OFC"
         ],
@@ -2025,6 +2025,18 @@
     },
     {
         "rank": 166,
+        "team_name": "بابوا غينيا الجديدة",
+        "points": "977.53",
+        "filters": [
+            "OFC"
+        ],
+        "filter_ranks": {
+            "OFC": 7
+        },
+        "search_meta": "166 بابوا غينيا الجديدة Papua New Guinea OFC أوقيانوسيا"
+    },
+    {
+        "rank": 167,
         "team_name": "سانت لوسيا",
         "points": "976.71",
         "filters": [
@@ -2033,10 +2045,10 @@
         "filter_ranks": {
             "CONCACAF": 22
         },
-        "search_meta": "166 سانت لوسيا St. Lucia CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "167 سانت لوسيا St. Lucia CONCACAF أمريكا الشمالية والوسطى"
     },
     {
-        "rank": 167,
+        "rank": 168,
         "team_name": "برمودا",
         "points": "975.05",
         "filters": [
@@ -2045,19 +2057,7 @@
         "filter_ranks": {
             "CONCACAF": 23
         },
-        "search_meta": "167 برمودا Bermuda CONCACAF أمريكا الشمالية والوسطى"
-    },
-    {
-        "rank": 168,
-        "team_name": "بابوا غينيا الجديدة",
-        "points": "974.90",
-        "filters": [
-            "OFC"
-        ],
-        "filter_ranks": {
-            "OFC": 7
-        },
-        "search_meta": "168 بابوا غينيا الجديدة Papua New Guinea OFC أوقيانوسيا"
+        "search_meta": "168 برمودا Bermuda CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 169,
