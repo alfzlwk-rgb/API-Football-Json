@@ -1,7 +1,7 @@
 {
     "page_type": "tomorrow_page",
     "export_date": "2026-09-26",
-    "total_matches": 118,
+    "total_matches": 119,
     "matches": [
         {
             "match_id": "match_263009",
@@ -19,7 +19,7 @@
             "competition": "كأس ملك إسبانيا",
             "competition_logo": "https://jdwel.com/image/comp-logo/5.png",
             "home_team": "سبورتينغ هورتاليزا",
-            "home_logo": "https://jdwel.com/image/teams/placeholder.png",
+            "home_logo": "https://jdwel.com/image/teams/7242.png",
             "away_team": "غيمار",
             "away_logo": "https://jdwel.com/image/teams/7227.png",
             "match_time_or_score": "13:00",
@@ -43,7 +43,7 @@
             "home_team": "تالايويلا",
             "home_logo": "https://jdwel.com/image/teams/placeholder.png",
             "away_team": "سبورتينغ ألكازار",
-            "away_logo": "https://jdwel.com/image/teams/placeholder.png",
+            "away_logo": "https://jdwel.com/image/teams/7243.png",
             "match_time_or_score": "18:30",
             "match_date": "2026-09-27"
         },
@@ -774,6 +774,17 @@
             "match_date": "2026-09-28"
         },
         {
+            "match_id": "match_263556",
+            "competition": "بطولة غرب آسيا للناشئين",
+            "competition_logo": "https://jdwel.com/image/comp-logo/69.png",
+            "home_team": "الأردن",
+            "home_logo": "https://jdwel.com/image/teams/flag_jordan_v2.png",
+            "away_team": "عمان",
+            "away_logo": "https://jdwel.com/image/teams/flag_oman_v2.png",
+            "match_time_or_score": "17:00",
+            "match_date": "2026-09-27"
+        },
+        {
             "match_id": "match_261870",
             "competition": "الدوري المغربي القسم الثاني",
             "competition_logo": "https://jdwel.com/image/comp-logo/181.png",
@@ -792,7 +803,7 @@
             "home_logo": "https://jdwel.com/image/teams/3244.png",
             "away_team": "شباب السوالم",
             "away_logo": "https://jdwel.com/image/teams/1037.png",
-            "match_time_or_score": "18:00",
+            "match_time_or_score": "19:00",
             "match_date": "2026-09-27"
         },
         {
@@ -803,7 +814,7 @@
             "home_logo": "https://jdwel.com/image/teams/2748.png",
             "away_team": "سطاد المغربي",
             "away_logo": "https://jdwel.com/image/teams/2486.png",
-            "match_time_or_score": "18:00",
+            "match_time_or_score": "19:00",
             "match_date": "2026-09-27"
         },
         {
@@ -814,7 +825,7 @@
             "home_logo": "https://jdwel.com/image/teams/3245.png",
             "away_team": "اتحاد الخميسات",
             "away_logo": "https://jdwel.com/image/teams/3669.png",
-            "match_time_or_score": "20:00",
+            "match_time_or_score": "21:00",
             "match_date": "2026-09-27"
         },
         {
