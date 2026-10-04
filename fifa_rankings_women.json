@@ -50,7 +50,7 @@
     {
         "rank": 5,
         "team_name": "اليابان",
-        "points": "2,001.08",
+        "points": "1,999.04",
         "filters": [
             "AFC"
         ],
@@ -110,7 +110,7 @@
     {
         "rank": 10,
         "team_name": "كوريا الشمالية",
-        "points": "1,914.19",
+        "points": "1,916.52",
         "filters": [
             "AFC"
         ],
@@ -193,18 +193,30 @@
     },
     {
         "rank": 17,
-        "team_name": "الصين",
-        "points": "1,792.19",
+        "team_name": "كوريا الجنوبية",
+        "points": "1,791.13",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
             "AFC": 4
         },
-        "search_meta": "17 الصين China AFC آسيا"
+        "search_meta": "17 كوريا الجنوبية South Korea AFC آسيا"
     },
     {
         "rank": 18,
+        "team_name": "الصين",
+        "points": "1,786.80",
+        "filters": [
+            "AFC"
+        ],
+        "filter_ranks": {
+            "AFC": 5
+        },
+        "search_meta": "18 الصين China AFC آسيا"
+    },
+    {
+        "rank": 19,
         "team_name": "بلجيكا",
         "points": "1,786.01",
         "filters": [
@@ -213,19 +225,7 @@
         "filter_ranks": {
             "UEFA": 11
         },
-        "search_meta": "18 بلجيكا Belgium UEFA أوروبا"
-    },
-    {
-        "rank": 19,
-        "team_name": "كوريا الجنوبية",
-        "points": "1,785.74",
-        "filters": [
-            "AFC"
-        ],
-        "filter_ranks": {
-            "AFC": 5
-        },
-        "search_meta": "19 كوريا الجنوبية South Korea AFC آسيا"
+        "search_meta": "19 بلجيكا Belgium UEFA أوروبا"
     },
     {
         "rank": 20,
@@ -649,18 +649,6 @@
     },
     {
         "rank": 55,
-        "team_name": "بابوا غينيا الجديدة",
-        "points": "1,462.02",
-        "filters": [
-            "OFC"
-        ],
-        "filter_ranks": {
-            "OFC": 2
-        },
-        "search_meta": "55 بابوا غينيا الجديدة Papua New Guinea OFC أوقيانوسيا"
-    },
-    {
-        "rank": 56,
         "team_name": "بنما",
         "points": "1,457.45",
         "filters": [
@@ -669,7 +657,19 @@
         "filter_ranks": {
             "CONCACAF": 7
         },
-        "search_meta": "56 بنما Panama CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "55 بنما Panama CONCACAF أمريكا الشمالية والوسطى"
+    },
+    {
+        "rank": 56,
+        "team_name": "بابوا غينيا الجديدة",
+        "points": "1,455.55",
+        "filters": [
+            "OFC"
+        ],
+        "filter_ranks": {
+            "OFC": 2
+        },
+        "search_meta": "56 بابوا غينيا الجديدة Papua New Guinea OFC أوقيانوسيا"
     },
     {
         "rank": 57,
@@ -1221,6 +1221,18 @@
     },
     {
         "rank": 102,
+        "team_name": "فانواتو",
+        "points": "1,191.12",
+        "filters": [
+            "OFC"
+        ],
+        "filter_ranks": {
+            "OFC": 6
+        },
+        "search_meta": "102 فانواتو Vanuatu OFC أوقيانوسيا"
+    },
+    {
+        "rank": 103,
         "team_name": "جزر فارو",
         "points": "1,187.00",
         "filters": [
@@ -1229,19 +1241,7 @@
         "filter_ranks": {
             "UEFA": 43
         },
-        "search_meta": "102 جزر فارو Faroe Islands UEFA أوروبا"
-    },
-    {
-        "rank": 103,
-        "team_name": "فانواتو",
-        "points": "1,184.65",
-        "filters": [
-            "OFC"
-        ],
-        "filter_ranks": {
-            "OFC": 6
-        },
-        "search_meta": "103 فانواتو Vanuatu OFC أوقيانوسيا"
+        "search_meta": "103 جزر فارو Faroe Islands UEFA أوروبا"
     },
     {
         "rank": 104,
@@ -1667,6 +1667,18 @@
     },
     {
         "rank": 138,
+        "team_name": "إثيوبيا",
+        "points": "1,071.91",
+        "filters": [
+            "CAF"
+        ],
+        "filter_ranks": {
+            "CAF": 25
+        },
+        "search_meta": "138 إثيوبيا Ethiopia CAF أفريقيا"
+    },
+    {
+        "rank": 139,
         "team_name": "قيرغيزستان",
         "points": "1,070.63",
         "filters": [
@@ -1675,19 +1687,7 @@
         "filter_ranks": {
             "AFC": 27
         },
-        "search_meta": "138 قيرغيزستان Kyrgyzstan AFC آسيا"
-    },
-    {
-        "rank": 139,
-        "team_name": "إثيوبيا",
-        "points": "1,070.04",
-        "filters": [
-            "CAF"
-        ],
-        "filter_ranks": {
-            "CAF": 25
-        },
-        "search_meta": "139 إثيوبيا Ethiopia CAF أفريقيا"
+        "search_meta": "139 قيرغيزستان Kyrgyzstan AFC آسيا"
     },
     {
         "rank": 140,
@@ -2121,18 +2121,6 @@
     },
     {
         "rank": 175,
-        "team_name": "سيشيل",
-        "points": "847.60",
-        "filters": [
-            "CAF"
-        ],
-        "filter_ranks": {
-            "CAF": 39
-        },
-        "search_meta": "175 سيشيل Seychelles CAF أفريقيا"
-    },
-    {
-        "rank": 176,
         "team_name": "ماكاو",
         "points": "846.53",
         "filters": [
@@ -2141,7 +2129,19 @@
         "filter_ranks": {
             "AFC": 40
         },
-        "search_meta": "176 ماكاو Macao AFC آسيا"
+        "search_meta": "175 ماكاو Macao AFC آسيا"
+    },
+    {
+        "rank": 176,
+        "team_name": "سيشيل",
+        "points": "845.73",
+        "filters": [
+            "CAF"
+        ],
+        "filter_ranks": {
+            "CAF": 39
+        },
+        "search_meta": "176 سيشيل Seychelles CAF أفريقيا"
     },
     {
         "rank": 177,
