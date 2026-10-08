@@ -2,7 +2,7 @@
     {
         "rank": 1,
         "team_name": "إسبانيا",
-        "points": "2,007.86",
+        "points": "2,011.57",
         "filters": [
             "UEFA"
         ],
@@ -14,7 +14,7 @@
     {
         "rank": 2,
         "team_name": "الأرجنتين",
-        "points": "1,972.17",
+        "points": "1,972.80",
         "filters": [
             "CONMEBOL"
         ],
@@ -26,7 +26,7 @@
     {
         "rank": 3,
         "team_name": "فرنسا",
-        "points": "1,953.72",
+        "points": "1,958.86",
         "filters": [
             "UEFA"
         ],
@@ -38,7 +38,7 @@
     {
         "rank": 4,
         "team_name": "إنجلترا",
-        "points": "1,923.43",
+        "points": "1,925.59",
         "filters": [
             "UEFA"
         ],
@@ -49,17 +49,15 @@
     },
     {
         "rank": 5,
-        "team_name": "المغرب",
-        "points": "1,808.18",
+        "team_name": "البرتغال",
+        "points": "1,807.69",
         "filters": [
-            "CAF",
-            "UAFA"
+            "UEFA"
         ],
         "filter_ranks": {
-            "CAF": 1,
-            "UAFA": 1
+            "UEFA": 4
         },
-        "search_meta": "5 المغرب Morocco CAF أفريقيا UAFA العرب"
+        "search_meta": "5 البرتغال Portugal UEFA أوروبا"
     },
     {
         "rank": 6,
@@ -75,20 +73,22 @@
     },
     {
         "rank": 7,
-        "team_name": "البرتغال",
-        "points": "1,802.42",
+        "team_name": "المغرب",
+        "points": "1,805.34",
         "filters": [
-            "UEFA"
+            "CAF",
+            "UAFA"
         ],
         "filter_ranks": {
-            "UEFA": 4
+            "CAF": 1,
+            "UAFA": 1
         },
-        "search_meta": "7 البرتغال Portugal UEFA أوروبا"
+        "search_meta": "7 المغرب Morocco CAF أفريقيا UAFA العرب"
     },
     {
         "rank": 8,
         "team_name": "بلجيكا",
-        "points": "1,784.31",
+        "points": "1,779.17",
         "filters": [
             "UEFA"
         ],
@@ -100,7 +100,7 @@
     {
         "rank": 9,
         "team_name": "هولندا",
-        "points": "1,774.89",
+        "points": "1,778.61",
         "filters": [
             "UEFA"
         ],
@@ -112,7 +112,7 @@
     {
         "rank": 10,
         "team_name": "المكسيك",
-        "points": "1,746.04",
+        "points": "1,738.48",
         "filters": [
             "CONCACAF"
         ],
@@ -124,7 +124,7 @@
     {
         "rank": 11,
         "team_name": "كولومبيا",
-        "points": "1,733.25",
+        "points": "1,735.80",
         "filters": [
             "CONMEBOL"
         ],
@@ -136,7 +136,7 @@
     {
         "rank": 12,
         "team_name": "سويسرا",
-        "points": "1,722.46",
+        "points": "1,725.39",
         "filters": [
             "UEFA"
         ],
@@ -148,7 +148,7 @@
     {
         "rank": 13,
         "team_name": "ألمانيا",
-        "points": "1,720.57",
+        "points": "1,717.52",
         "filters": [
             "UEFA"
         ],
@@ -160,7 +160,7 @@
     {
         "rank": 14,
         "team_name": "كرواتيا",
-        "points": "1,718.45",
+        "points": "1,714.74",
         "filters": [
             "UEFA"
         ],
@@ -172,7 +172,7 @@
     {
         "rank": 15,
         "team_name": "إيطاليا",
-        "points": "1,707.49",
+        "points": "1,713.04",
         "filters": [
             "UEFA"
         ],
@@ -184,7 +184,7 @@
     {
         "rank": 16,
         "team_name": "الولايات المتحدة",
-        "points": "1,701.62",
+        "points": "1,705.47",
         "filters": [
             "CONCACAF"
         ],
@@ -196,7 +196,7 @@
     {
         "rank": 17,
         "team_name": "اليابان",
-        "points": "1,683.00",
+        "points": "1,684.75",
         "filters": [
             "AFC"
         ],
@@ -208,7 +208,7 @@
     {
         "rank": 18,
         "team_name": "السنغال",
-        "points": "1,647.35",
+        "points": "1,648.84",
         "filters": [
             "CAF"
         ],
@@ -220,7 +220,7 @@
     {
         "rank": 19,
         "team_name": "النرويج",
-        "points": "1,643.16",
+        "points": "1,637.89",
         "filters": [
             "UEFA"
         ],
@@ -232,7 +232,7 @@
     {
         "rank": 20,
         "team_name": "أوروغواي",
-        "points": "1,634.45",
+        "points": "1,635.54",
         "filters": [
             "CONMEBOL"
         ],
@@ -244,7 +244,7 @@
     {
         "rank": 21,
         "team_name": "الدنمارك",
-        "points": "1,613.50",
+        "points": "1,619.62",
         "filters": [
             "UEFA"
         ],
@@ -256,7 +256,7 @@
     {
         "rank": 22,
         "team_name": "النمسا",
-        "points": "1,604.34",
+        "points": "1,600.66",
         "filters": [
             "UEFA"
         ],
@@ -279,8 +279,20 @@
     },
     {
         "rank": 24,
+        "team_name": "الإكوادور",
+        "points": "1,587.07",
+        "filters": [
+            "CONMEBOL"
+        ],
+        "filter_ranks": {
+            "CONMEBOL": 5
+        },
+        "search_meta": "24 الإكوادور Ecuador CONMEBOL أمريكا الجنوبية"
+    },
+    {
+        "rank": 25,
         "team_name": "مصر",
-        "points": "1,592.08",
+        "points": "1,585.86",
         "filters": [
             "CAF",
             "UAFA"
@@ -289,19 +301,7 @@
             "CAF": 3,
             "UAFA": 2
         },
-        "search_meta": "24 مصر Egypt CAF أفريقيا UAFA العرب"
-    },
-    {
-        "rank": 25,
-        "team_name": "الإكوادور",
-        "points": "1,588.16",
-        "filters": [
-            "CONMEBOL"
-        ],
-        "filter_ranks": {
-            "CONMEBOL": 5
-        },
-        "search_meta": "25 الإكوادور Ecuador CONMEBOL أمريكا الجنوبية"
+        "search_meta": "25 مصر Egypt CAF أفريقيا UAFA العرب"
     },
     {
         "rank": 26,
@@ -318,7 +318,7 @@
     {
         "rank": 27,
         "team_name": "كندا",
-        "points": "1,579.16",
+        "points": "1,575.31",
         "filters": [
             "CONCACAF"
         ],
@@ -330,7 +330,7 @@
     {
         "rank": 28,
         "team_name": "الجزائر",
-        "points": "1,572.99",
+        "points": "1,574.77",
         "filters": [
             "CAF",
             "UAFA"
@@ -355,32 +355,32 @@
     },
     {
         "rank": 30,
-        "team_name": "تركيا",
-        "points": "1,569.09",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 14
-        },
-        "search_meta": "30 تركيا Turkey UEFA أوروبا"
-    },
-    {
-        "rank": 31,
         "team_name": "نيجيريا",
-        "points": "1,568.27",
+        "points": "1,567.97",
         "filters": [
             "CAF"
         ],
         "filter_ranks": {
             "CAF": 6
         },
-        "search_meta": "31 نيجيريا Nigeria CAF أفريقيا"
+        "search_meta": "30 نيجيريا Nigeria CAF أفريقيا"
+    },
+    {
+        "rank": 31,
+        "team_name": "تركيا",
+        "points": "1,563.54",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 14
+        },
+        "search_meta": "31 تركيا Turkey UEFA أوروبا"
     },
     {
         "rank": 32,
         "team_name": "كوريا الجنوبية",
-        "points": "1,558.79",
+        "points": "1,562.49",
         "filters": [
             "AFC"
         ],
@@ -403,44 +403,44 @@
     },
     {
         "rank": 34,
-        "team_name": "أوكرانيا",
-        "points": "1,543.35",
+        "team_name": "السويد",
+        "points": "1,543.80",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 15
         },
-        "search_meta": "34 أوكرانيا Ukraine UEFA أوروبا"
+        "search_meta": "34 السويد Sweden UEFA أوروبا"
     },
     {
         "rank": 35,
-        "team_name": "السويد",
-        "points": "1,537.76",
+        "team_name": "روسيا",
+        "points": "1,537.45",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 16
         },
-        "search_meta": "35 السويد Sweden UEFA أوروبا"
+        "search_meta": "35 روسيا Russia UEFA أوروبا"
     },
     {
         "rank": 36,
-        "team_name": "روسيا",
-        "points": "1,537.15",
+        "team_name": "أوكرانيا",
+        "points": "1,535.27",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 17
         },
-        "search_meta": "36 روسيا Russia UEFA أوروبا"
+        "search_meta": "36 أوكرانيا Ukraine UEFA أوروبا"
     },
     {
         "rank": 37,
         "team_name": "بولندا",
-        "points": "1,523.55",
+        "points": "1,514.58",
         "filters": [
             "UEFA"
         ],
@@ -451,18 +451,30 @@
     },
     {
         "rank": 38,
-        "team_name": "ويلز",
-        "points": "1,516.49",
+        "team_name": "المجر",
+        "points": "1,511.24",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 19
         },
-        "search_meta": "38 ويلز Wales UEFA أوروبا"
+        "search_meta": "38 المجر Hungary UEFA أوروبا"
     },
     {
         "rank": 39,
+        "team_name": "ويلز",
+        "points": "1,510.37",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 20
+        },
+        "search_meta": "39 ويلز Wales UEFA أوروبا"
+    },
+    {
+        "rank": 40,
         "team_name": "جمهورية الكونغو الديمقراطية",
         "points": "1,506.37",
         "filters": [
@@ -471,24 +483,12 @@
         "filter_ranks": {
             "CAF": 7
         },
-        "search_meta": "39 جمهورية الكونغو الديمقراطية Congo DR CAF أفريقيا"
-    },
-    {
-        "rank": 40,
-        "team_name": "المجر",
-        "points": "1,503.16",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 20
-        },
-        "search_meta": "40 المجر Hungary UEFA أوروبا"
+        "search_meta": "40 جمهورية الكونغو الديمقراطية Congo DR CAF أفريقيا"
     },
     {
         "rank": 41,
         "team_name": "اليونان",
-        "points": "1,495.66",
+        "points": "1,498.71",
         "filters": [
             "UEFA"
         ],
@@ -499,30 +499,6 @@
     },
     {
         "rank": 42,
-        "team_name": "اسكتلندا",
-        "points": "1,491.75",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 22
-        },
-        "search_meta": "42 اسكتلندا Scotland UEFA أوروبا"
-    },
-    {
-        "rank": 43,
-        "team_name": "صربيا",
-        "points": "1,485.97",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 23
-        },
-        "search_meta": "43 صربيا Serbia UEFA أوروبا"
-    },
-    {
-        "rank": 44,
         "team_name": "الكاميرون",
         "points": "1,485.30",
         "filters": [
@@ -531,12 +507,36 @@
         "filter_ranks": {
             "CAF": 8
         },
-        "search_meta": "44 الكاميرون Cameroon CAF أفريقيا"
+        "search_meta": "42 الكاميرون Cameroon CAF أفريقيا"
+    },
+    {
+        "rank": 43,
+        "team_name": "اسكتلندا",
+        "points": "1,483.57",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 22
+        },
+        "search_meta": "43 اسكتلندا Scotland UEFA أوروبا"
+    },
+    {
+        "rank": 44,
+        "team_name": "صربيا",
+        "points": "1,482.24",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 23
+        },
+        "search_meta": "44 صربيا Serbia UEFA أوروبا"
     },
     {
         "rank": 45,
         "team_name": "سلوفاكيا",
-        "points": "1,475.12",
+        "points": "1,477.34",
         "filters": [
             "UEFA"
         ],
@@ -548,7 +548,7 @@
     {
         "rank": 46,
         "team_name": "بنما",
-        "points": "1,473.38",
+        "points": "1,476.97",
         "filters": [
             "CONCACAF"
         ],
@@ -560,7 +560,7 @@
     {
         "rank": 47,
         "team_name": "مالي",
-        "points": "1,471.29",
+        "points": "1,474.14",
         "filters": [
             "CAF"
         ],
@@ -571,104 +571,92 @@
     },
     {
         "rank": 48,
-        "team_name": "فنزويلا",
-        "points": "1,466.97",
-        "filters": [
-            "CONMEBOL"
-        ],
-        "filter_ranks": {
-            "CONMEBOL": 7
-        },
-        "search_meta": "48 فنزويلا Venezuela CONMEBOL أمريكا الجنوبية"
-    },
-    {
-        "rank": 49,
         "team_name": "جنوب أفريقيا",
-        "points": "1,462.67",
+        "points": "1,468.88",
         "filters": [
             "CAF"
         ],
         "filter_ranks": {
             "CAF": 10
         },
-        "search_meta": "49 جنوب أفريقيا South Africa CAF أفريقيا"
+        "search_meta": "48 جنوب أفريقيا South Africa CAF أفريقيا"
+    },
+    {
+        "rank": 49,
+        "team_name": "فنزويلا",
+        "points": "1,465.87",
+        "filters": [
+            "CONMEBOL"
+        ],
+        "filter_ranks": {
+            "CONMEBOL": 7
+        },
+        "search_meta": "49 فنزويلا Venezuela CONMEBOL أمريكا الجنوبية"
     },
     {
         "rank": 50,
-        "team_name": "التشيك",
-        "points": "1,459.28",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 25
-        },
-        "search_meta": "50 التشيك Czech Republic UEFA أوروبا"
-    },
-    {
-        "rank": 51,
-        "team_name": "بيرو",
-        "points": "1,453.49",
+        "team_name": "تشيلي",
+        "points": "1,458.97",
         "filters": [
             "CONMEBOL"
         ],
         "filter_ranks": {
             "CONMEBOL": 8
         },
-        "search_meta": "51 بيرو Peru CONMEBOL أمريكا الجنوبية"
+        "search_meta": "50 تشيلي Chile CONMEBOL أمريكا الجنوبية"
+    },
+    {
+        "rank": 51,
+        "team_name": "التشيك",
+        "points": "1,457.12",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 25
+        },
+        "search_meta": "51 التشيك Czech Republic UEFA أوروبا"
     },
     {
         "rank": 52,
-        "team_name": "تشيلي",
-        "points": "1,451.41",
-        "filters": [
-            "CONMEBOL"
-        ],
-        "filter_ranks": {
-            "CONMEBOL": 9
-        },
-        "search_meta": "52 تشيلي Chile CONMEBOL أمريكا الجنوبية"
-    },
-    {
-        "rank": 53,
         "team_name": "سلوفينيا",
-        "points": "1,444.30",
+        "points": "1,452.48",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 26
         },
-        "search_meta": "53 سلوفينيا Slovenia UEFA أوروبا"
+        "search_meta": "52 سلوفينيا Slovenia UEFA أوروبا"
+    },
+    {
+        "rank": 53,
+        "team_name": "بيرو",
+        "points": "1,450.95",
+        "filters": [
+            "CONMEBOL"
+        ],
+        "filter_ranks": {
+            "CONMEBOL": 9
+        },
+        "search_meta": "53 بيرو Peru CONMEBOL أمريكا الجنوبية"
     },
     {
         "rank": 54,
-        "team_name": "أيرلندا",
-        "points": "1,440.27",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 27
-        },
-        "search_meta": "54 أيرلندا Republic of Ireland UEFA أوروبا"
-    },
-    {
-        "rank": 55,
         "team_name": "كوستاريكا",
-        "points": "1,439.49",
+        "points": "1,444.85",
         "filters": [
             "CONCACAF"
         ],
         "filter_ranks": {
             "CONCACAF": 5
         },
-        "search_meta": "55 كوستاريكا Costa Rica CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "54 كوستاريكا Costa Rica CONCACAF أمريكا الشمالية والوسطى"
     },
     {
-        "rank": 56,
+        "rank": 55,
         "team_name": "السعودية",
-        "points": "1,438.71",
+        "points": "1,443.17",
         "filters": [
             "AFC",
             "UAFA",
@@ -679,36 +667,48 @@
             "UAFA": 4,
             "GCC": 1
         },
-        "search_meta": "56 السعودية Saudi Arabia AFC آسيا UAFA العرب GCC الخليج"
+        "search_meta": "55 السعودية Saudi Arabia AFC آسيا UAFA العرب GCC الخليج"
+    },
+    {
+        "rank": 56,
+        "team_name": "أيرلندا",
+        "points": "1,438.62",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 27
+        },
+        "search_meta": "56 أيرلندا Republic of Ireland UEFA أوروبا"
     },
     {
         "rank": 57,
-        "team_name": "رومانيا",
-        "points": "1,434.92",
+        "team_name": "البوسنة والهرسك",
+        "points": "1,429.32",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 28
         },
-        "search_meta": "57 رومانيا Romania UEFA أوروبا"
+        "search_meta": "57 البوسنة والهرسك Bosnia and Herzegovina UEFA أوروبا"
     },
     {
         "rank": 58,
-        "team_name": "البوسنة والهرسك",
-        "points": "1,420.36",
+        "team_name": "رومانيا",
+        "points": "1,428.88",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 29
         },
-        "search_meta": "58 البوسنة والهرسك Bosnia and Herzegovina UEFA أوروبا"
+        "search_meta": "58 رومانيا Romania UEFA أوروبا"
     },
     {
         "rank": 59,
         "team_name": "أوزبكستان",
-        "points": "1,420.31",
+        "points": "1,416.61",
         "filters": [
             "AFC"
         ],
@@ -778,7 +778,7 @@
     {
         "rank": 64,
         "team_name": "أيرلندا الشمالية",
-        "points": "1,384.42",
+        "points": "1,383.86",
         "filters": [
             "UEFA"
         ],
@@ -790,7 +790,7 @@
     {
         "rank": 65,
         "team_name": "الإمارات",
-        "points": "1,381.40",
+        "points": "1,376.95",
         "filters": [
             "AFC",
             "UAFA",
@@ -805,27 +805,27 @@
     },
     {
         "rank": 66,
-        "team_name": "هندوراس",
-        "points": "1,375.60",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 6
-        },
-        "search_meta": "66 هندوراس Honduras CONCACAF أمريكا الشمالية والوسطى"
-    },
-    {
-        "rank": 67,
         "team_name": "ألبانيا",
-        "points": "1,374.66",
+        "points": "1,375.78",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 31
         },
-        "search_meta": "67 ألبانيا Albania UEFA أوروبا"
+        "search_meta": "66 ألبانيا Albania UEFA أوروبا"
+    },
+    {
+        "rank": 67,
+        "team_name": "هندوراس",
+        "points": "1,375.40",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 6
+        },
+        "search_meta": "67 هندوراس Honduras CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 68,
@@ -842,7 +842,7 @@
     {
         "rank": 69,
         "team_name": "جامايكا",
-        "points": "1,361.78",
+        "points": "1,361.97",
         "filters": [
             "CONCACAF"
         ],
@@ -866,7 +866,7 @@
     {
         "rank": 71,
         "team_name": "شمال مقدونيا",
-        "points": "1,353.84",
+        "points": "1,350.91",
         "filters": [
             "UEFA"
         ],
@@ -877,32 +877,8 @@
     },
     {
         "rank": 72,
-        "team_name": "آيسلندا",
-        "points": "1,352.27",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 33
-        },
-        "search_meta": "72 آيسلندا Iceland UEFA أوروبا"
-    },
-    {
-        "rank": 73,
-        "team_name": "فنلندا",
-        "points": "1,349.78",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 34
-        },
-        "search_meta": "73 فنلندا Finland UEFA أوروبا"
-    },
-    {
-        "rank": 74,
         "team_name": "الأردن",
-        "points": "1,349.77",
+        "points": "1,350.88",
         "filters": [
             "AFC",
             "UAFA"
@@ -911,24 +887,48 @@
             "AFC": 10,
             "UAFA": 9
         },
-        "search_meta": "74 الأردن Jordan AFC آسيا UAFA العرب"
+        "search_meta": "72 الأردن Jordan AFC آسيا UAFA العرب"
+    },
+    {
+        "rank": 73,
+        "team_name": "آيسلندا",
+        "points": "1,349.42",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 33
+        },
+        "search_meta": "73 آيسلندا Iceland UEFA أوروبا"
+    },
+    {
+        "rank": 74,
+        "team_name": "جورجيا",
+        "points": "1,345.88",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 34
+        },
+        "search_meta": "74 جورجيا Georgia UEFA أوروبا"
     },
     {
         "rank": 75,
-        "team_name": "جورجيا",
-        "points": "1,345.31",
+        "team_name": "فنلندا",
+        "points": "1,340.73",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 35
         },
-        "search_meta": "75 جورجيا Georgia UEFA أوروبا"
+        "search_meta": "75 فنلندا Finland UEFA أوروبا"
     },
     {
         "rank": 76,
         "team_name": "كوسوفو",
-        "points": "1,324.46",
+        "points": "1,328.14",
         "filters": [
             "UEFA"
         ],
@@ -940,7 +940,7 @@
     {
         "rank": 77,
         "team_name": "منتخب الكيان",
-        "points": "1,323.88",
+        "points": "1,325.52",
         "filters": [
             "UEFA"
         ],
@@ -964,7 +964,7 @@
     {
         "rank": 79,
         "team_name": "الجبل الأسود",
-        "points": "1,317.41",
+        "points": "1,315.49",
         "filters": [
             "UEFA"
         ],
@@ -976,7 +976,7 @@
     {
         "rank": 80,
         "team_name": "كوراساو",
-        "points": "1,306.53",
+        "points": "1,304.98",
         "filters": [
             "CONCACAF"
         ],
@@ -1015,30 +1015,42 @@
     },
     {
         "rank": 83,
-        "team_name": "هايتي",
-        "points": "1,286.27",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 9
-        },
-        "search_meta": "83 هايتي Haiti CONCACAF أمريكا الشمالية والوسطى"
-    },
-    {
-        "rank": 84,
-        "team_name": "الغابون",
-        "points": "1,280.12",
+        "team_name": "أنغولا",
+        "points": "1,281.79",
         "filters": [
             "CAF"
         ],
         "filter_ranks": {
             "CAF": 16
         },
-        "search_meta": "84 الغابون Gabon CAF أفريقيا"
+        "search_meta": "83 أنغولا Angola CAF أفريقيا"
+    },
+    {
+        "rank": 84,
+        "team_name": "هايتي",
+        "points": "1,280.91",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 9
+        },
+        "search_meta": "84 هايتي Haiti CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 85,
+        "team_name": "الغابون",
+        "points": "1,280.12",
+        "filters": [
+            "CAF"
+        ],
+        "filter_ranks": {
+            "CAF": 17
+        },
+        "search_meta": "85 الغابون Gabon CAF أفريقيا"
+    },
+    {
+        "rank": 86,
         "team_name": "سوريا",
         "points": "1,279.94",
         "filters": [
@@ -1049,19 +1061,7 @@
             "AFC": 12,
             "UAFA": 11
         },
-        "search_meta": "85 سوريا Syria AFC آسيا UAFA العرب"
-    },
-    {
-        "rank": 86,
-        "team_name": "نيوزيلندا",
-        "points": "1,278.77",
-        "filters": [
-            "OFC"
-        ],
-        "filter_ranks": {
-            "OFC": 1
-        },
-        "search_meta": "86 نيوزيلندا New Zealand OFC أوقيانوسيا"
+        "search_meta": "86 سوريا Syria AFC آسيا UAFA العرب"
     },
     {
         "rank": 87,
@@ -1071,26 +1071,26 @@
             "CAF"
         ],
         "filter_ranks": {
-            "CAF": 17
+            "CAF": 18
         },
         "search_meta": "87 أوغندا Uganda CAF أفريقيا"
     },
     {
         "rank": 88,
-        "team_name": "أنغولا",
-        "points": "1,272.60",
+        "team_name": "نيوزيلندا",
+        "points": "1,277.02",
         "filters": [
-            "CAF"
+            "OFC"
         ],
         "filter_ranks": {
-            "CAF": 18
+            "OFC": 1
         },
-        "search_meta": "88 أنغولا Angola CAF أفريقيا"
+        "search_meta": "88 نيوزيلندا New Zealand OFC أوقيانوسيا"
     },
     {
         "rank": 89,
         "team_name": "بنين",
-        "points": "1,266.64",
+        "points": "1,266.01",
         "filters": [
             "CAF"
         ],
@@ -1101,6 +1101,18 @@
     },
     {
         "rank": 90,
+        "team_name": "بلغاريا",
+        "points": "1,262.57",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 39
+        },
+        "search_meta": "90 بلغاريا Bulgaria UEFA أوروبا"
+    },
+    {
+        "rank": 91,
         "team_name": "زامبيا",
         "points": "1,260.61",
         "filters": [
@@ -1109,19 +1121,7 @@
         "filter_ranks": {
             "CAF": 20
         },
-        "search_meta": "90 زامبيا Zambia CAF أفريقيا"
-    },
-    {
-        "rank": 91,
-        "team_name": "بلغاريا",
-        "points": "1,255.49",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 39
-        },
-        "search_meta": "91 بلغاريا Bulgaria UEFA أوروبا"
+        "search_meta": "91 زامبيا Zambia CAF أفريقيا"
     },
     {
         "rank": 92,
@@ -1140,7 +1140,7 @@
     {
         "rank": 93,
         "team_name": "تايلاند",
-        "points": "1,252.27",
+        "points": "1,251.42",
         "filters": [
             "AFC"
         ],
@@ -1151,30 +1151,42 @@
     },
     {
         "rank": 94,
-        "team_name": "الصين",
-        "points": "1,247.22",
-        "filters": [
-            "AFC"
-        ],
-        "filter_ranks": {
-            "AFC": 15
-        },
-        "search_meta": "94 الصين China PR AFC آسيا"
-    },
-    {
-        "rank": 95,
         "team_name": "بيلاروسيا",
-        "points": "1,240.55",
+        "points": "1,249.60",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 40
         },
-        "search_meta": "95 بيلاروسيا Belarus UEFA أوروبا"
+        "search_meta": "94 بيلاروسيا Belarus UEFA أوروبا"
+    },
+    {
+        "rank": 95,
+        "team_name": "غواتيمالا",
+        "points": "1,245.10",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 10
+        },
+        "search_meta": "95 غواتيمالا Guatemala CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 96,
+        "team_name": "الصين",
+        "points": "1,241.90",
+        "filters": [
+            "AFC"
+        ],
+        "filter_ranks": {
+            "AFC": 15
+        },
+        "search_meta": "96 الصين China PR AFC آسيا"
+    },
+    {
+        "rank": 97,
         "team_name": "البحرين",
         "points": "1,240.30",
         "filters": [
@@ -1187,19 +1199,7 @@
             "UAFA": 13,
             "GCC": 6
         },
-        "search_meta": "96 البحرين Bahrain AFC آسيا UAFA العرب GCC الخليج"
-    },
-    {
-        "rank": 97,
-        "team_name": "غواتيمالا",
-        "points": "1,238.94",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 10
-        },
-        "search_meta": "97 غواتيمالا Guatemala CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "97 البحرين Bahrain AFC آسيا UAFA العرب GCC الخليج"
     },
     {
         "rank": 98,
@@ -1216,7 +1216,7 @@
     {
         "rank": 99,
         "team_name": "فيتنام",
-        "points": "1,237.62",
+        "points": "1,231.29",
         "filters": [
             "AFC"
         ],
@@ -1227,27 +1227,27 @@
     },
     {
         "rank": 100,
-        "team_name": "لوكسمبورغ",
-        "points": "1,225.87",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 41
-        },
-        "search_meta": "100 لوكسمبورغ Luxembourg UEFA أوروبا"
-    },
-    {
-        "rank": 101,
         "team_name": "طاجيكستان",
-        "points": "1,213.56",
+        "points": "1,218.88",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
             "AFC": 18
         },
-        "search_meta": "101 طاجيكستان Tajikistan AFC آسيا"
+        "search_meta": "100 طاجيكستان Tajikistan AFC آسيا"
+    },
+    {
+        "rank": 101,
+        "team_name": "لوكسمبورغ",
+        "points": "1,218.80",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 41
+        },
+        "search_meta": "101 لوكسمبورغ Luxembourg UEFA أوروبا"
     },
     {
         "rank": 102,
@@ -1275,18 +1275,30 @@
     },
     {
         "rank": 104,
+        "team_name": "قرغيزستان",
+        "points": "1,199.73",
+        "filters": [
+            "AFC"
+        ],
+        "filter_ranks": {
+            "AFC": 19
+        },
+        "search_meta": "104 قرغيزستان Kyrgyz Republic AFC آسيا"
+    },
+    {
+        "rank": 105,
         "team_name": "ترينيداد وتوباغو",
-        "points": "1,197.30",
+        "points": "1,198.85",
         "filters": [
             "CONCACAF"
         ],
         "filter_ranks": {
             "CONCACAF": 12
         },
-        "search_meta": "104 ترينيداد وتوباغو Trinidad and Tobago CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "105 ترينيداد وتوباغو Trinidad and Tobago CONCACAF أمريكا الشمالية والوسطى"
     },
     {
-        "rank": 105,
+        "rank": 106,
         "team_name": "مدغشقر",
         "points": "1,197.24",
         "filters": [
@@ -1295,24 +1307,12 @@
         "filter_ranks": {
             "CAF": 23
         },
-        "search_meta": "105 مدغشقر Madagascar CAF أفريقيا"
-    },
-    {
-        "rank": 106,
-        "team_name": "قرغيزستان",
-        "points": "1,194.92",
-        "filters": [
-            "AFC"
-        ],
-        "filter_ranks": {
-            "AFC": 19
-        },
-        "search_meta": "106 قرغيزستان Kyrgyz Republic AFC آسيا"
+        "search_meta": "106 مدغشقر Madagascar CAF أفريقيا"
     },
     {
         "rank": 107,
         "team_name": "جزر القمر",
-        "points": "1,193.77",
+        "points": "1,192.28",
         "filters": [
             "CAF",
             "UAFA"
@@ -1325,6 +1325,18 @@
     },
     {
         "rank": 108,
+        "team_name": "أرمينيا",
+        "points": "1,183.26",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 42
+        },
+        "search_meta": "108 أرمينيا Armenia UEFA أوروبا"
+    },
+    {
+        "rank": 109,
         "team_name": "غامبيا",
         "points": "1,182.64",
         "filters": [
@@ -1333,19 +1345,7 @@
         "filter_ranks": {
             "CAF": 25
         },
-        "search_meta": "108 غامبيا Gambia CAF أفريقيا"
-    },
-    {
-        "rank": 109,
-        "team_name": "أرمينيا",
-        "points": "1,181.34",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 42
-        },
-        "search_meta": "109 أرمينيا Armenia UEFA أوروبا"
+        "search_meta": "109 غامبيا Gambia CAF أفريقيا"
     },
     {
         "rank": 110,
@@ -1363,8 +1363,20 @@
     },
     {
         "rank": 111,
+        "team_name": "النيجر",
+        "points": "1,172.93",
+        "filters": [
+            "CAF"
+        ],
+        "filter_ranks": {
+            "CAF": 27
+        },
+        "search_meta": "111 النيجر Niger CAF أفريقيا"
+    },
+    {
+        "rank": 112,
         "team_name": "لبنان",
-        "points": "1,175.11",
+        "points": "1,170.30",
         "filters": [
             "AFC",
             "UAFA"
@@ -1373,19 +1385,7 @@
             "AFC": 20,
             "UAFA": 16
         },
-        "search_meta": "111 لبنان Lebanon AFC آسيا UAFA العرب"
-    },
-    {
-        "rank": 112,
-        "team_name": "النيجر",
-        "points": "1,174.72",
-        "filters": [
-            "CAF"
-        ],
-        "filter_ranks": {
-            "CAF": 27
-        },
-        "search_meta": "112 النيجر Niger CAF أفريقيا"
+        "search_meta": "112 لبنان Lebanon AFC آسيا UAFA العرب"
     },
     {
         "rank": 113,
@@ -1427,27 +1427,27 @@
     },
     {
         "rank": 116,
-        "team_name": "كازاخستان",
-        "points": "1,166.65",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 43
-        },
-        "search_meta": "116 كازاخستان Kazakhstan UEFA أوروبا"
-    },
-    {
-        "rank": 117,
         "team_name": "إندونيسيا",
-        "points": "1,163.15",
+        "points": "1,166.50",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
             "AFC": 21
         },
-        "search_meta": "117 إندونيسيا Indonesia AFC آسيا"
+        "search_meta": "116 إندونيسيا Indonesia AFC آسيا"
+    },
+    {
+        "rank": 117,
+        "team_name": "كازاخستان",
+        "points": "1,166.26",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 43
+        },
+        "search_meta": "117 كازاخستان Kazakhstan UEFA أوروبا"
     },
     {
         "rank": 118,
@@ -1501,6 +1501,18 @@
     },
     {
         "rank": 122,
+        "team_name": "إستونيا",
+        "points": "1,147.12",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 44
+        },
+        "search_meta": "122 إستونيا Estonia UEFA أوروبا"
+    },
+    {
+        "rank": 123,
         "team_name": "ناميبيا",
         "points": "1,146.48",
         "filters": [
@@ -1509,34 +1521,10 @@
         "filter_ranks": {
             "CAF": 34
         },
-        "search_meta": "122 ناميبيا Namibia CAF أفريقيا"
-    },
-    {
-        "rank": 123,
-        "team_name": "سورينام",
-        "points": "1,144.61",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 13
-        },
-        "search_meta": "123 سورينام Suriname CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "123 ناميبيا Namibia CAF أفريقيا"
     },
     {
         "rank": 124,
-        "team_name": "إستونيا",
-        "points": "1,144.28",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 44
-        },
-        "search_meta": "124 إستونيا Estonia UEFA أوروبا"
-    },
-    {
-        "rank": 125,
         "team_name": "غينيا بيساو",
         "points": "1,144.03",
         "filters": [
@@ -1545,79 +1533,91 @@
         "filter_ranks": {
             "CAF": 35
         },
-        "search_meta": "125 غينيا بيساو Guinea-Bissau CAF أفريقيا"
+        "search_meta": "124 غينيا بيساو Guinea-Bissau CAF أفريقيا"
     },
     {
-        "rank": 126,
-        "team_name": "جزر فارو",
-        "points": "1,139.71",
+        "rank": 125,
+        "team_name": "قبرص",
+        "points": "1,142.43",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 45
         },
-        "search_meta": "126 جزر فارو Faroe Islands UEFA أوروبا"
+        "search_meta": "125 قبرص Cyprus UEFA أوروبا"
     },
     {
-        "rank": 127,
-        "team_name": "قبرص",
-        "points": "1,135.79",
+        "rank": 126,
+        "team_name": "جزر فارو",
+        "points": "1,140.10",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 46
         },
-        "search_meta": "127 قبرص Cyprus UEFA أوروبا"
+        "search_meta": "126 جزر فارو Faroe Islands UEFA أوروبا"
     },
     {
-        "rank": 128,
+        "rank": 127,
         "team_name": "أذربيجان",
-        "points": "1,132.41",
+        "points": "1,138.96",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 47
         },
-        "search_meta": "128 أذربيجان Azerbaijan UEFA أوروبا"
+        "search_meta": "127 أذربيجان Azerbaijan UEFA أوروبا"
+    },
+    {
+        "rank": 128,
+        "team_name": "سورينام",
+        "points": "1,138.46",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 13
+        },
+        "search_meta": "128 سورينام Suriname CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 129,
-        "team_name": "مالاوي",
-        "points": "1,131.03",
-        "filters": [
-            "CAF"
-        ],
-        "filter_ranks": {
-            "CAF": 36
-        },
-        "search_meta": "129 مالاوي Malawi CAF أفريقيا"
-    },
-    {
-        "rank": 130,
         "team_name": "زيمبابوي",
         "points": "1,128.05",
         "filters": [
             "CAF"
         ],
         "filter_ranks": {
-            "CAF": 37
+            "CAF": 36
         },
-        "search_meta": "130 زيمبابوي Zimbabwe CAF أفريقيا"
+        "search_meta": "129 زيمبابوي Zimbabwe CAF أفريقيا"
     },
     {
-        "rank": 131,
+        "rank": 130,
         "team_name": "سيرا ليون",
         "points": "1,123.20",
         "filters": [
             "CAF"
         ],
         "filter_ranks": {
+            "CAF": 37
+        },
+        "search_meta": "130 سيرا ليون Sierra Leone CAF أفريقيا"
+    },
+    {
+        "rank": 131,
+        "team_name": "مالاوي",
+        "points": "1,121.84",
+        "filters": [
+            "CAF"
+        ],
+        "filter_ranks": {
             "CAF": 38
         },
-        "search_meta": "131 سيرا ليون Sierra Leone CAF أفريقيا"
+        "search_meta": "131 مالاوي Malawi CAF أفريقيا"
     },
     {
         "rank": 132,
@@ -1633,6 +1633,18 @@
     },
     {
         "rank": 133,
+        "team_name": "ماليزيا",
+        "points": "1,102.09",
+        "filters": [
+            "AFC"
+        ],
+        "filter_ranks": {
+            "AFC": 23
+        },
+        "search_meta": "133 ماليزيا Malaysia AFC آسيا"
+    },
+    {
+        "rank": 134,
         "team_name": "الكويت",
         "points": "1,098.64",
         "filters": [
@@ -1641,64 +1653,52 @@
             "GCC"
         ],
         "filter_ranks": {
-            "AFC": 23,
+            "AFC": 24,
             "UAFA": 19,
             "GCC": 7
         },
-        "search_meta": "133 الكويت Kuwait AFC آسيا UAFA العرب GCC الخليج"
+        "search_meta": "134 الكويت Kuwait AFC آسيا UAFA العرب GCC الخليج"
     },
     {
-        "rank": 134,
-        "team_name": "نيكاراغوا",
-        "points": "1,098.44",
+        "rank": 135,
+        "team_name": "جمهورية الدومينيكان",
+        "points": "1,096.58",
         "filters": [
             "CONCACAF"
         ],
         "filter_ranks": {
             "CONCACAF": 14
         },
-        "search_meta": "134 نيكاراغوا Nicaragua CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "135 جمهورية الدومينيكان Dominican Republic CONCACAF أمريكا الشمالية والوسطى"
     },
     {
-        "rank": 135,
+        "rank": 136,
         "team_name": "الفلبين",
         "points": "1,095.85",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
-            "AFC": 24
-        },
-        "search_meta": "135 الفلبين Philippines AFC آسيا"
-    },
-    {
-        "rank": 136,
-        "team_name": "ماليزيا",
-        "points": "1,095.76",
-        "filters": [
-            "AFC"
-        ],
-        "filter_ranks": {
             "AFC": 25
         },
-        "search_meta": "136 ماليزيا Malaysia AFC آسيا"
+        "search_meta": "136 الفلبين Philippines AFC آسيا"
     },
     {
         "rank": 137,
-        "team_name": "جمهورية الدومينيكان",
-        "points": "1,088.94",
+        "team_name": "نيكاراغوا",
+        "points": "1,090.80",
         "filters": [
             "CONCACAF"
         ],
         "filter_ranks": {
             "CONCACAF": 15
         },
-        "search_meta": "137 جمهورية الدومينيكان Dominican Republic CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "137 نيكاراغوا Nicaragua CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 138,
         "team_name": "الهند",
-        "points": "1,087.52",
+        "points": "1,086.43",
         "filters": [
             "AFC"
         ],
@@ -1733,18 +1733,6 @@
     },
     {
         "rank": 141,
-        "team_name": "لاتفيا",
-        "points": "1,075.98",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 48
-        },
-        "search_meta": "141 لاتفيا Latvia UEFA أوروبا"
-    },
-    {
-        "rank": 142,
         "team_name": "بوتسوانا",
         "points": "1,073.85",
         "filters": [
@@ -1753,10 +1741,34 @@
         "filter_ranks": {
             "CAF": 41
         },
-        "search_meta": "142 بوتسوانا Botswana CAF أفريقيا"
+        "search_meta": "141 بوتسوانا Botswana CAF أفريقيا"
+    },
+    {
+        "rank": 142,
+        "team_name": "غيانا",
+        "points": "1,071.38",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 16
+        },
+        "search_meta": "142 غيانا Guyana CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 143,
+        "team_name": "لاتفيا",
+        "points": "1,069.33",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 48
+        },
+        "search_meta": "143 لاتفيا Latvia UEFA أوروبا"
+    },
+    {
+        "rank": 144,
         "team_name": "اليمن",
         "points": "1,067.53",
         "filters": [
@@ -1769,34 +1781,10 @@
             "UAFA": 20,
             "GCC": 8
         },
-        "search_meta": "143 اليمن Yemen AFC آسيا UAFA العرب GCC الخليج"
-    },
-    {
-        "rank": 144,
-        "team_name": "غيانا",
-        "points": "1,066.33",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 16
-        },
-        "search_meta": "144 غيانا Guyana CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "144 اليمن Yemen AFC آسيا UAFA العرب GCC الخليج"
     },
     {
         "rank": 145,
-        "team_name": "ليتوانيا",
-        "points": "1,065.83",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 49
-        },
-        "search_meta": "145 ليتوانيا Lithuania UEFA أوروبا"
-    },
-    {
-        "rank": 146,
         "team_name": "أفريقيا الوسطى",
         "points": "1,065.15",
         "filters": [
@@ -1805,10 +1793,10 @@
         "filter_ranks": {
             "CAF": 42
         },
-        "search_meta": "146 أفريقيا الوسطى Central African Republic CAF أفريقيا"
+        "search_meta": "145 أفريقيا الوسطى Central African Republic CAF أفريقيا"
     },
     {
-        "rank": 147,
+        "rank": 146,
         "team_name": "ليبيريا",
         "points": "1,064.58",
         "filters": [
@@ -1817,10 +1805,10 @@
         "filter_ranks": {
             "CAF": 43
         },
-        "search_meta": "147 ليبيريا Liberia CAF أفريقيا"
+        "search_meta": "146 ليبيريا Liberia CAF أفريقيا"
     },
     {
-        "rank": 148,
+        "rank": 147,
         "team_name": "إثيوبيا",
         "points": "1,064.46",
         "filters": [
@@ -1829,7 +1817,19 @@
         "filter_ranks": {
             "CAF": 44
         },
-        "search_meta": "148 إثيوبيا Ethiopia CAF أفريقيا"
+        "search_meta": "147 إثيوبيا Ethiopia CAF أفريقيا"
+    },
+    {
+        "rank": 148,
+        "team_name": "ليتوانيا",
+        "points": "1,059.28",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 49
+        },
+        "search_meta": "148 ليتوانيا Lithuania UEFA أوروبا"
     },
     {
         "rank": 149,
@@ -1858,7 +1858,7 @@
     {
         "rank": 151,
         "team_name": "سانت كيتس ونيفيس",
-        "points": "1,042.17",
+        "points": "1,041.42",
         "filters": [
             "CONCACAF"
         ],
@@ -1906,7 +1906,7 @@
     {
         "rank": 155,
         "team_name": "بورتوريكو",
-        "points": "1,028.06",
+        "points": "1,032.97",
         "filters": [
             "CONCACAF"
         ],
@@ -1929,18 +1929,6 @@
     },
     {
         "rank": 157,
-        "team_name": "مولدوفا",
-        "points": "1,017.78",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 50
-        },
-        "search_meta": "157 مولدوفا Moldova UEFA أوروبا"
-    },
-    {
-        "rank": 158,
         "team_name": "تاهيتي",
         "points": "1,016.32",
         "filters": [
@@ -1949,7 +1937,19 @@
         "filter_ranks": {
             "OFC": 5
         },
-        "search_meta": "158 تاهيتي Tahiti OFC أوقيانوسيا"
+        "search_meta": "157 تاهيتي Tahiti OFC أوقيانوسيا"
+    },
+    {
+        "rank": 158,
+        "team_name": "مولدوفا",
+        "points": "1,015.57",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 50
+        },
+        "search_meta": "158 مولدوفا Moldova UEFA أوروبا"
     },
     {
         "rank": 159,
@@ -1965,6 +1965,18 @@
     },
     {
         "rank": 160,
+        "team_name": "مالطا",
+        "points": "1,006.80",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 51
+        },
+        "search_meta": "160 مالطا Malta UEFA أوروبا"
+    },
+    {
+        "rank": 161,
         "team_name": "فانواتو",
         "points": "1,005.90",
         "filters": [
@@ -1973,43 +1985,31 @@
         "filter_ranks": {
             "OFC": 6
         },
-        "search_meta": "160 فانواتو Vanuatu OFC أوقيانوسيا"
-    },
-    {
-        "rank": 161,
-        "team_name": "مالطا",
-        "points": "1,000.25",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 51
-        },
-        "search_meta": "161 مالطا Malta UEFA أوروبا"
+        "search_meta": "161 فانواتو Vanuatu OFC أوقيانوسيا"
     },
     {
         "rank": 162,
-        "team_name": "كوبا",
-        "points": "989.70",
+        "team_name": "أنتيغوا وباربودا",
+        "points": "992.54",
         "filters": [
             "CONCACAF"
         ],
         "filter_ranks": {
             "CONCACAF": 19
         },
-        "search_meta": "162 كوبا Cuba CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "162 أنتيغوا وباربودا Antigua and Barbuda CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 163,
-        "team_name": "أنتيغوا وباربودا",
-        "points": "986.33",
+        "team_name": "كوبا",
+        "points": "990.46",
         "filters": [
             "CONCACAF"
         ],
         "filter_ranks": {
             "CONCACAF": 20
         },
-        "search_meta": "163 أنتيغوا وباربودا Antigua and Barbuda CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "163 كوبا Cuba CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 164,
@@ -2098,7 +2098,7 @@
     {
         "rank": 171,
         "team_name": "برمودا",
-        "points": "959.25",
+        "points": "951.28",
         "filters": [
             "CONCACAF"
         ],
@@ -2109,6 +2109,18 @@
     },
     {
         "rank": 172,
+        "team_name": "مونتسرات",
+        "points": "939.13",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 25
+        },
+        "search_meta": "172 مونتسرات Montserrat CONCACAF أمريكا الشمالية والوسطى"
+    },
+    {
+        "rank": 173,
         "team_name": "المالديف",
         "points": "935.93",
         "filters": [
@@ -2117,43 +2129,31 @@
         "filter_ranks": {
             "AFC": 33
         },
-        "search_meta": "172 المالديف Maldives AFC آسيا"
-    },
-    {
-        "rank": 173,
-        "team_name": "أندورا",
-        "points": "934.08",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 52
-        },
-        "search_meta": "173 أندورا Andorra UEFA أوروبا"
+        "search_meta": "173 المالديف Maldives AFC آسيا"
     },
     {
         "rank": 174,
-        "team_name": "مونتسرات",
-        "points": "933.34",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 25
-        },
-        "search_meta": "174 مونتسرات Montserrat CONCACAF أمريكا الشمالية والوسطى"
-    },
-    {
-        "rank": 175,
         "team_name": "باربادوس",
-        "points": "926.55",
+        "points": "934.52",
         "filters": [
             "CONCACAF"
         ],
         "filter_ranks": {
             "CONCACAF": 26
         },
-        "search_meta": "175 باربادوس Barbados CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "174 باربادوس Barbados CONCACAF أمريكا الشمالية والوسطى"
+    },
+    {
+        "rank": 175,
+        "team_name": "أندورا",
+        "points": "927.53",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 52
+        },
+        "search_meta": "175 أندورا Andorra UEFA أوروبا"
     },
     {
         "rank": 176,
@@ -2194,7 +2194,7 @@
     {
         "rank": 179,
         "team_name": "موريشيوس",
-        "points": "911.49",
+        "points": "906.24",
         "filters": [
             "CAF"
         ],
@@ -2253,39 +2253,39 @@
     },
     {
         "rank": 184,
-        "team_name": "أروبا",
-        "points": "890.32",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 28
-        },
-        "search_meta": "184 أروبا Aruba CONCACAF أمريكا الشمالية والوسطى"
-    },
-    {
-        "rank": 185,
-        "team_name": "دومينيكا",
-        "points": "889.63",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 29
-        },
-        "search_meta": "185 دومينيكا Dominica CONCACAF أمريكا الشمالية والوسطى"
-    },
-    {
-        "rank": 186,
         "team_name": "سريلانكا",
-        "points": "885.39",
+        "points": "890.64",
         "filters": [
             "AFC"
         ],
         "filter_ranks": {
             "AFC": 38
         },
-        "search_meta": "186 سريلانكا Sri Lanka AFC آسيا"
+        "search_meta": "184 سريلانكا Sri Lanka AFC آسيا"
+    },
+    {
+        "rank": 185,
+        "team_name": "أروبا",
+        "points": "889.53",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 28
+        },
+        "search_meta": "185 أروبا Aruba CONCACAF أمريكا الشمالية والوسطى"
+    },
+    {
+        "rank": 186,
+        "team_name": "دومينيكا",
+        "points": "884.58",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 29
+        },
+        "search_meta": "186 دومينيكا Dominica CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 187,
@@ -2411,18 +2411,6 @@
     },
     {
         "rank": 197,
-        "team_name": "جزر كايمان",
-        "points": "841.06",
-        "filters": [
-            "CONCACAF"
-        ],
-        "filter_ranks": {
-            "CONCACAF": 30
-        },
-        "search_meta": "197 جزر كايمان Cayman Islands CONCACAF أمريكا الشمالية والوسطى"
-    },
-    {
-        "rank": 198,
         "team_name": "باكستان",
         "points": "839.03",
         "filters": [
@@ -2431,7 +2419,19 @@
         "filter_ranks": {
             "AFC": 44
         },
-        "search_meta": "198 باكستان Pakistan AFC آسيا"
+        "search_meta": "197 باكستان Pakistan AFC آسيا"
+    },
+    {
+        "rank": 198,
+        "team_name": "جزر كايمان",
+        "points": "836.15",
+        "filters": [
+            "CONCACAF"
+        ],
+        "filter_ranks": {
+            "CONCACAF": 30
+        },
+        "search_meta": "198 جزر كايمان Cayman Islands CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 199,
@@ -2462,7 +2462,7 @@
     {
         "rank": 201,
         "team_name": "جبل طارق",
-        "points": "824.78",
+        "points": "829.49",
         "filters": [
             "UEFA"
         ],
@@ -2498,7 +2498,7 @@
     {
         "rank": 204,
         "team_name": "جزر تركس وكايكوس",
-        "points": "805.20",
+        "points": "806.26",
         "filters": [
             "CONCACAF"
         ],
@@ -2521,32 +2521,32 @@
     },
     {
         "rank": 206,
-        "team_name": "ليختنشتاين",
-        "points": "794.89",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 54
-        },
-        "search_meta": "206 ليختنشتاين Liechtenstein UEFA أوروبا"
-    },
-    {
-        "rank": 207,
         "team_name": "جزر العذراء الأمريكية",
-        "points": "787.37",
+        "points": "794.75",
         "filters": [
             "CONCACAF"
         ],
         "filter_ranks": {
             "CONCACAF": 32
         },
-        "search_meta": "207 جزر العذراء الأمريكية US Virgin Islands CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "206 جزر العذراء الأمريكية US Virgin Islands CONCACAF أمريكا الشمالية والوسطى"
+    },
+    {
+        "rank": 207,
+        "team_name": "ليختنشتاين",
+        "points": "790.18",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 54
+        },
+        "search_meta": "207 ليختنشتاين Liechtenstein UEFA أوروبا"
     },
     {
         "rank": 208,
         "team_name": "الباهاماس",
-        "points": "779.21",
+        "points": "771.83",
         "filters": [
             "CONCACAF"
         ],
@@ -2558,7 +2558,7 @@
     {
         "rank": 209,
         "team_name": "جزر العذراء البريطانية",
-        "points": "759.60",
+        "points": "752.75",
         "filters": [
             "CONCACAF"
         ],
@@ -2570,7 +2570,7 @@
     {
         "rank": 210,
         "team_name": "أنغويلا",
-        "points": "742.09",
+        "points": "736.67",
         "filters": [
             "CONCACAF"
         ],
@@ -2582,7 +2582,7 @@
     {
         "rank": 211,
         "team_name": "سان مارينو",
-        "points": "717.04",
+        "points": "715.93",
         "filters": [
             "UEFA"
         ],

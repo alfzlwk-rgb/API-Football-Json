@@ -1,30 +1,10 @@
 [
     {
         "sectionType": "ينتهي:",
-        "logo": "https://jdwel.com/image/comp-logo/69.png",
-        "name": "بطولة غرب آسيا للناشئين",
-        "subTitle": "[ نهاية بطولة 2026 ]",
-        "duration": "يوم واحد",
-        "dateText": "05 أكتوبر",
-        "datetime": "2026-10-05",
-        "fixtureUrl": "https://jdwel.com/2026-west-asia-u17-fixtures/"
-    },
-    {
-        "sectionType": "ينتهي:",
-        "logo": "https://jdwel.com/image/comp-logo/202.png",
-        "name": "كأس الخليج",
-        "subTitle": "[ نهاية بطولة 2026 ]",
-        "duration": "يومين",
-        "dateText": "06 أكتوبر",
-        "datetime": "2026-10-06",
-        "fixtureUrl": "https://jdwel.com/2026-arab-gulf-cup-fixtures/"
-    },
-    {
-        "sectionType": "ينتهي:",
         "logo": "https://jdwel.com/image/comp-logo/us-open-cup.png",
         "name": "كأس الولايات المتحدة المفتوحة",
         "subTitle": "[ نهاية بطولة 2026 ]",
-        "duration": "18 يوم",
+        "duration": "14 يوم",
         "dateText": "22 أكتوبر",
         "datetime": "2026-10-22",
         "fixtureUrl": "https://jdwel.com/2026-us-open-cup-fixtures/"
@@ -34,7 +14,7 @@
         "logo": "https://jdwel.com/image/comp-logo/26.png",
         "name": "الدوري اللبناني",
         "subTitle": "[ بداية دوري 2026/2027 ]",
-        "duration": "4 أيام",
+        "duration": "اليوم",
         "dateText": "08 أكتوبر",
         "datetime": "2026-10-08",
         "fixtureUrl": "https://jdwel.com/2026-2027-lebanon-premier-league-fixtures/"
@@ -44,7 +24,7 @@
         "logo": "https://jdwel.com/image/comp-logo/saudi-sdl.png",
         "name": "دوري الدرجة الثانية السعودي",
         "subTitle": "[ بداية دوري 2026/2027 ]",
-        "duration": "5 أيام",
+        "duration": "يوم واحد",
         "dateText": "09 أكتوبر",
         "datetime": "2026-10-09",
         "fixtureUrl": "https://jdwel.com/2026-2027-saudi-division-2-fixtures/"
@@ -54,7 +34,7 @@
         "logo": "https://jdwel.com/image/comp-logo/126.png",
         "name": "كأس الاتحاد السعودي للسيدات",
         "subTitle": "[ بداية بطولة 2026/2027 ]",
-        "duration": "6 أيام",
+        "duration": "يومين",
         "dateText": "10 أكتوبر",
         "datetime": "2026-10-10",
         "fixtureUrl": "https://jdwel.com/2026-2027-saff-women-cup-fixtures/"
@@ -64,7 +44,7 @@
         "logo": "https://jdwel.com/image/comp-logo/66.png",
         "name": "دوري أبطال الخليج",
         "subTitle": "[ بداية بطولة 2026/2027 ]",
-        "duration": "9 أيام",
+        "duration": "5 أيام",
         "dateText": "13 أكتوبر",
         "datetime": "2026-10-13",
         "fixtureUrl": ""
@@ -74,7 +54,7 @@
         "logo": "https://jdwel.com/image/comp-logo/11.png",
         "name": "قرعة البطولة",
         "subTitle": "[ كأس السوبر السعودي 2026 ]",
-        "duration": "10 أيام",
+        "duration": "6 أيام",
         "dateText": "14 أكتوبر",
         "datetime": "2026-10-14",
         "fixtureUrl": "https://jdwel.com/2026-saudi-super-cup-fixtures/"
@@ -84,7 +64,7 @@
         "logo": "https://jdwel.com/image/comp-logo/63.png",
         "name": "الدوري الأسترالي",
         "subTitle": "[ بداية دوري 2026/2027 ]",
-        "duration": "12 يوم",
+        "duration": "8 أيام",
         "dateText": "16 أكتوبر",
         "datetime": "2026-10-16",
         "fixtureUrl": "https://jdwel.com/2026-2027-australian-a-league-fixtures/"
@@ -94,7 +74,7 @@
         "logo": "https://jdwel.com/image/comp-logo/62.png",
         "name": "الدوري الاسترالي للسيدات",
         "subTitle": "[ بداية دوري 2026/2027 ]",
-        "duration": "13 يوم",
+        "duration": "9 أيام",
         "dateText": "17 أكتوبر",
         "datetime": "2026-10-17",
         "fixtureUrl": "https://jdwel.com/2026-2027-a-league-women-fixtures/"
@@ -104,7 +84,7 @@
         "logo": "https://jdwel.com/image/comp-logo/taca-da-liga.png",
         "name": "كأس الدوري البرتغالي",
         "subTitle": "[ بداية بطولة 2026/2027 ]",
-        "duration": "23 يوم",
+        "duration": "19 يوم",
         "dateText": "27 أكتوبر",
         "datetime": "2026-10-27",
         "fixtureUrl": "https://jdwel.com/2026-2027-taca-da-liga-fixtures/"
@@ -114,7 +94,7 @@
         "logo": "https://jdwel.com/image/comp-logo/157.png",
         "name": "كأس السوبر الأفريقي",
         "subTitle": "[ بداية بطولة 2026 ]",
-        "duration": "35 يوم",
+        "duration": "31 يوم",
         "dateText": "08 نوفمبر",
         "datetime": "2026-11-08",
         "fixtureUrl": "https://jdwel.com/2026-caf-super-cup-fixtures/"
@@ -124,7 +104,7 @@
         "logo": "https://jdwel.com/image/comp-logo/thailand-kings-cup.png",
         "name": "كأس ملك تايلاند",
         "subTitle": "[ بداية بطولة 2026 ]",
-        "duration": "41 يوم",
+        "duration": "37 يوم",
         "dateText": "14 نوفمبر",
         "datetime": "2026-11-14",
         "fixtureUrl": "https://jdwel.com/2026-thailand-kings-cup-fixtures/"
@@ -134,37 +114,37 @@
         "logo": "https://jdwel.com/image/comp-logo/141.png",
         "name": "كأس العالم للناشئين",
         "subTitle": "[ بداية بطولة 2026 ]",
-        "duration": "46 يوم",
+        "duration": "42 يوم",
         "dateText": "19 نوفمبر",
         "datetime": "2026-11-19",
         "fixtureUrl": "https://jdwel.com/2026-world-cup-u17-fixtures/"
     },
     {
         "sectionType": "يبدأ:",
-        "logo": "https://jdwel.com/image/comp-logo/1.png",
-        "name": "كأس الرابطة المصرية",
-        "subTitle": "[ بداية بطولة 2026/2027 ]",
-        "duration": "66 يوم",
-        "dateText": "09 ديسمبر",
-        "datetime": "2026-12-09",
-        "fixtureUrl": "https://jdwel.com/2026-2027-efa-cup-fixtures/"
-    },
-    {
-        "sectionType": "يبدأ:",
         "logo": "https://jdwel.com/image/comp-logo/16.png",
         "name": "الدوري الليبي",
         "subTitle": "[ بداية دوري 2026/2027 ]",
-        "duration": "74 يوم",
+        "duration": "70 يوم",
         "dateText": "17 ديسمبر",
         "datetime": "2026-12-17",
         "fixtureUrl": "https://jdwel.com/2026-2027-libyan-premier-league-fixtures/"
     },
     {
         "sectionType": "يبدأ:",
+        "logo": "https://jdwel.com/image/comp-logo/21.png",
+        "name": "كأس السوبر الإيطالي",
+        "subTitle": "[ بداية بطولة 2026/2027 ]",
+        "duration": "71 يوم",
+        "dateText": "18 ديسمبر",
+        "datetime": "2026-12-18",
+        "fixtureUrl": "https://jdwel.com/2026-2027-italian-super-cup-fixtures/"
+    },
+    {
+        "sectionType": "يبدأ:",
         "logo": "https://jdwel.com/image/comp-logo/11.png",
         "name": "كأس السوبر السعودي",
         "subTitle": "[ بداية بطولة 2026 ]",
-        "duration": "76 يوم",
+        "duration": "72 يوم",
         "dateText": "19 ديسمبر",
         "datetime": "2026-12-19",
         "fixtureUrl": "https://jdwel.com/2026-saudi-super-cup-fixtures/"
@@ -174,17 +154,27 @@
         "logo": "https://jdwel.com/image/comp-logo/bahrain-cup.png",
         "name": "كأس ملك البحرين",
         "subTitle": "[ بداية بطولة 2026/2027 ]",
-        "duration": "79 يوم",
+        "duration": "75 يوم",
         "dateText": "22 ديسمبر",
         "datetime": "2026-12-22",
         "fixtureUrl": "https://jdwel.com/2026-2027-bahrain-kings-cup-fixtures/"
     },
     {
         "sectionType": "يبدأ:",
+        "logo": "https://jdwel.com/image/comp-logo/150.png",
+        "name": "كأس السوبر الجزائري",
+        "subTitle": "[ بداية بطولة 2026 ]",
+        "duration": "86 يوم",
+        "dateText": "02 يناير",
+        "datetime": "2027-01-02",
+        "fixtureUrl": "https://jdwel.com/2026-algerian-super-cup-fixtures/"
+    },
+    {
+        "sectionType": "يبدأ:",
         "logo": "https://jdwel.com/image/comp-logo/20.png",
         "name": "كأس السوبر الإسباني",
         "subTitle": "[ بداية بطولة 2027 ]",
-        "duration": "95 يوم",
+        "duration": "91 يوم",
         "dateText": "07 يناير",
         "datetime": "2027-01-07",
         "fixtureUrl": "https://jdwel.com/2027-spanish-super-cup-fixtures/"
@@ -194,7 +184,7 @@
         "logo": "https://jdwel.com/image/comp-logo/200.png",
         "name": "كأس آسيا",
         "subTitle": "[ بداية بطولة 2027 ]",
-        "duration": "95 يوم",
+        "duration": "91 يوم",
         "dateText": "07 يناير",
         "datetime": "2027-01-07",
         "fixtureUrl": "https://jdwel.com/2027-afc-asian-cup-fixtures/"
@@ -204,7 +194,7 @@
         "logo": "https://jdwel.com/image/comp-logo/french-super-cup.png",
         "name": "كأس السوبر الفرنسي",
         "subTitle": "[ بداية بطولة 2026/2027 ]",
-        "duration": "96 يوم",
+        "duration": "92 يوم",
         "dateText": "08 يناير",
         "datetime": "2027-01-08",
         "fixtureUrl": "https://jdwel.com/2026-2027-french-super-cup-fixtures/"
@@ -214,7 +204,7 @@
         "logo": "https://jdwel.com/image/comp-logo/87.png",
         "name": "كأس السوبر الإسباني للسيدات",
         "subTitle": "[ بداية بطولة 2026/2027 ]",
-        "duration": "108 يوم",
+        "duration": "104 يوم",
         "dateText": "20 يناير",
         "datetime": "2027-01-20",
         "fixtureUrl": "https://jdwel.com/2026-2027-supercopa-femenina-fixtures/"
