@@ -2,7 +2,7 @@
     {
         "rank": 1,
         "team_name": "إسبانيا",
-        "points": "2,105.36",
+        "points": "2,120.21",
         "filters": [
             "UEFA"
         ],
@@ -14,7 +14,7 @@
     {
         "rank": 2,
         "team_name": "الولايات المتحدة",
-        "points": "2,057.92",
+        "points": "2,043.06",
         "filters": [
             "CONCACAF"
         ],
@@ -62,7 +62,7 @@
     {
         "rank": 6,
         "team_name": "فرنسا",
-        "points": "1,983.84",
+        "points": "1,983.77",
         "filters": [
             "UEFA"
         ],
@@ -74,7 +74,7 @@
     {
         "rank": 7,
         "team_name": "البرازيل",
-        "points": "1,976.73",
+        "points": "1,976.81",
         "filters": [
             "CONMEBOL"
         ],
@@ -230,7 +230,7 @@
     {
         "rank": 20,
         "team_name": "كولومبيا",
-        "points": "1,775.96",
+        "points": "1,778.18",
         "filters": [
             "CONMEBOL"
         ],
@@ -350,7 +350,7 @@
     {
         "rank": 30,
         "team_name": "الأرجنتين",
-        "points": "1,683.00",
+        "points": "1,682.92",
         "filters": [
             "CONMEBOL"
         ],
@@ -482,7 +482,7 @@
     {
         "rank": 41,
         "team_name": "فنزويلا",
-        "points": "1,527.00",
+        "points": "1,524.78",
         "filters": [
             "CONMEBOL"
         ],
@@ -518,7 +518,7 @@
     {
         "rank": 44,
         "team_name": "باراغواي",
-        "points": "1,511.01",
+        "points": "1,515.53",
         "filters": [
             "CONMEBOL"
         ],
@@ -930,7 +930,7 @@
     {
         "rank": 78,
         "team_name": "السلفادور",
-        "points": "1,294.40",
+        "points": "1,289.88",
         "filters": [
             "CONCACAF"
         ],
@@ -1246,7 +1246,7 @@
     {
         "rank": 104,
         "team_name": "لاتفيا",
-        "points": "1,179.91",
+        "points": "1,179.98",
         "filters": [
             "UEFA"
         ],
@@ -1270,7 +1270,7 @@
     {
         "rank": 106,
         "team_name": "إندونيسيا",
-        "points": "1,175.31",
+        "points": "1,172.10",
         "filters": [
             "AFC"
         ],
@@ -1763,6 +1763,18 @@
     },
     {
         "rank": 146,
+        "team_name": "أرمينيا",
+        "points": "1,043.34",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 51
+        },
+        "search_meta": "146 أرمينيا Armenia UEFA أوروبا"
+    },
+    {
+        "rank": 147,
         "team_name": "أفريقيا الوسطى",
         "points": "1,042.07",
         "filters": [
@@ -1771,19 +1783,7 @@
         "filter_ranks": {
             "CAF": 29
         },
-        "search_meta": "146 أفريقيا الوسطى Central African Republic CAF أفريقيا"
-    },
-    {
-        "rank": 147,
-        "team_name": "أرمينيا",
-        "points": "1,041.03",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 51
-        },
-        "search_meta": "147 أرمينيا Armenia UEFA أوروبا"
+        "search_meta": "147 أفريقيا الوسطى Central African Republic CAF أفريقيا"
     },
     {
         "rank": 148,
@@ -2293,18 +2293,30 @@
     },
     {
         "rank": 189,
-        "team_name": "جبل طارق",
-        "points": "734.15",
+        "team_name": "ليختنشتاين",
+        "points": "730.32",
         "filters": [
             "UEFA"
         ],
         "filter_ranks": {
             "UEFA": 53
         },
-        "search_meta": "189 جبل طارق Gibraltar UEFA أوروبا"
+        "search_meta": "189 ليختنشتاين Liechtenstein UEFA أوروبا"
     },
     {
         "rank": 190,
+        "team_name": "جبل طارق",
+        "points": "729.18",
+        "filters": [
+            "UEFA"
+        ],
+        "filter_ranks": {
+            "UEFA": 54
+        },
+        "search_meta": "190 جبل طارق Gibraltar UEFA أوروبا"
+    },
+    {
+        "rank": 191,
         "team_name": "مدغشقر",
         "points": "725.37",
         "filters": [
@@ -2313,19 +2325,7 @@
         "filter_ranks": {
             "CAF": 46
         },
-        "search_meta": "190 مدغشقر Madagascar CAF أفريقيا"
-    },
-    {
-        "rank": 191,
-        "team_name": "ليختنشتاين",
-        "points": "725.35",
-        "filters": [
-            "UEFA"
-        ],
-        "filter_ranks": {
-            "UEFA": 54
-        },
-        "search_meta": "191 ليختنشتاين Liechtenstein UEFA أوروبا"
+        "search_meta": "191 مدغشقر Madagascar CAF أفريقيا"
     },
     {
         "rank": 192,
