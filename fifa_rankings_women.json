@@ -230,7 +230,7 @@
     {
         "rank": 20,
         "team_name": "بلجيكا",
-        "points": "1,775.56",
+        "points": "1,780.06",
         "filters": [
             "UEFA"
         ],
@@ -338,7 +338,7 @@
     {
         "rank": 29,
         "team_name": "بولندا",
-        "points": "1,704.62",
+        "points": "1,700.12",
         "filters": [
             "UEFA"
         ],
@@ -1679,7 +1679,7 @@
     },
     {
         "rank": 139,
-        "team_name": "قيرغيزستان",
+        "team_name": "قرغيزستان",
         "points": "1,070.63",
         "filters": [
             "AFC"
@@ -1687,7 +1687,7 @@
         "filter_ranks": {
             "AFC": 27
         },
-        "search_meta": "139 قيرغيزستان Kyrgyzstan AFC آسيا"
+        "search_meta": "139 قرغيزستان Kyrgyz Republic AFC آسيا"
     },
     {
         "rank": 140,
@@ -1935,7 +1935,7 @@
     },
     {
         "rank": 160,
-        "team_name": "سانت فينسنت والغرينادين",
+        "team_name": "سانت فينسنت وغرينادين",
         "points": "947.14",
         "filters": [
             "CONCACAF"
@@ -1943,7 +1943,7 @@
         "filter_ranks": {
             "CONCACAF": 20
         },
-        "search_meta": "160 سانت فينسنت والغرينادين Saint Vincent and the Grenadines CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "160 سانت فينسنت وغرينادين St. Vincent / Grenadines CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 161,
@@ -2379,7 +2379,7 @@
     },
     {
         "rank": 196,
-        "team_name": "جزر توركس وكايكوس",
+        "team_name": "جزر تركس وكايكوس",
         "points": "627.14",
         "filters": [
             "CONCACAF"
@@ -2387,7 +2387,7 @@
         "filter_ranks": {
             "CONCACAF": 33
         },
-        "search_meta": "196 جزر توركس وكايكوس Turks and Caicos Islands CONCACAF أمريكا الشمالية والوسطى"
+        "search_meta": "196 جزر تركس وكايكوس Turks and Caicos Islands CONCACAF أمريكا الشمالية والوسطى"
     },
     {
         "rank": 197,
